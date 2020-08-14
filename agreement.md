@@ -1,7 +1,7 @@
 # Aragon Network Agreement
 
 ## Section 0. Background
-The Aragon Network is a Decentralized Autonomous Organization that is building a dispute resolution protocol and other smart contract infrastructure.
+The Aragon Network is a Decentralized Autonomous Organization that builds and maintains a dispute resolution protocol and other smart contract infrastructure.
 
 The Aragon Network is governed by Aragon Network Token (ANT) holders, who supported the initial creation of the network and under this Agreement will continue to guide its evolution through established governance processes.
 
