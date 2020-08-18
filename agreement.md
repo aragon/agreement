@@ -42,7 +42,7 @@ The guidelines in this section MAY be amended. These guidelines apply to all pro
     - An accurate summary of the proposal in 280 characters or less.
     - A rationale section detailing the author’s reason(s) for creating the proposal.
     - An accurate, long-form description of what the proposal will do if enacted.
-    - A section acknowledging by title and author(s) any similar or related prior work known to the proposal author(s).
+    - If applicable, a section acknowledging by title and author(s) any similar or related prior work known to the proposal author(s).
     - If the proposal amends one or more Network contracts, then a security audit report of the Network contract amendment MUST be included in the Justification. This security audit report MUST be produced by a third-party security auditor and remain publicly accessible for as long as the amendment is in effect. The third-party security auditor MUST NOT have any financial relationship to the proposal author(s) aside from their being hired to perform the security audit.
 
 4. Proposal Justifications MUST NOT contain directly or by direct link any Non-consensual Imagery (NCI), Child Abuse Imagery (CAI), malware, spyware, or material that is owned via Copyright by someone other than one of the proposal authors (unless use of said Copyright material is permitted by the Copyright owner or otherwise protected under Fair Use standards).
