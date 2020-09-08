@@ -57,8 +57,8 @@ Apps installed on the organization and their parameters.
 
 - Voting Aggregator. Allows users to aggregate voting power over multiple sources.
     - Parameterization:
-      - ANT (`0x960b236a07cf122663c4303350609a66a7b288c0`)
-      - Staking pool (TBD)
+      - Token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
+      - Staking pool: TBD  
 
 - Disputable Voting 1. Used to start new votes and poll tokenholders about specific issues. This Voting app is parameterized for less risky types of proposals (compared to Voting 2: lower approval and support thresholds, shorter vote duration, lower collateral requirements, etc).
 
