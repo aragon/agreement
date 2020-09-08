@@ -56,7 +56,7 @@ Apps installed on the organization and their parameters.
 - Permissions. Allows users to add/grant or remove permissions to members or entities, as needed. It represents the governance structure of the organization.
 
 - Voting Aggregator. Allows users to aggregate voting power over multiple sources.
-    - Parametrization:
+    - Parameterization:
       - ANT (`0x960b236a07cf122663c4303350609a66a7b288c0`)
       - Staking pool (TBD)
 
