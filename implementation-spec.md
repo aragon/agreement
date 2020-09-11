@@ -39,16 +39,16 @@ Apps installed on the organization and their parameters.
 
     - Disputable Voting 1 parameterization:  
       - Challenge response duration: 24 hours  
-      - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
-      - Action collateral: 100 ANT  
-      - Challenge collateral: 100 ANT
+      - Collateral token: `0x6b175474e89094c44da98b954eedeac495271d0f`  
+      - Action collateral: 500 DAI  
+      - Challenge collateral: 500 DAI
 
     - Disputable Voting 2 parameterization:  
       - Challenge response duration: 24 hours  
-      - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
-      - Action collateral: 10,000 ANT  
-      - Challenge collateral: 1,000 ANT
-
+      - Collateral token: `0x6b175474e89094c44da98b954eedeac495271d0f`  
+      - Action collateral: 50,000 DAI  
+      - Challenge collateral: 5,000 DAI
+      
 - EVM Script Registry. Enables the management of EVMScripts and EVMScript executors.
 
 - Kernel. Manages apps installed on the organization, including setting the default Vault of the organization.
@@ -69,9 +69,9 @@ Apps installed on the organization and their parameters.
       - Registered for Agreements: Yes  
       - Disputable parameters:  
         - Challenge response duration: 24 hours  
-        - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
-        - Action collateral: 100 ANT  
-        - Challenge collateral: 100 ANT
+        - Collateral token: `0x6b175474e89094c44da98b954eedeac495271d0f`  
+        - Action collateral: 500 DAI  
+        - Challenge collateral: 500 DAI
 
 - Disputable Voting 2. Used to start new votes and poll tokenholders about specific issues. This Voting app is parameterized for more risky types of proposals (compared to Voting 1: higher approval and support thresholds, longer vote duration, higher collateral requirements, etc).
 
@@ -87,9 +87,9 @@ Apps installed on the organization and their parameters.
       - Registered for Agreements: Yes  
       - Disputable parameters:  
         - Challenge response duration: 24 hours  
-        - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
-        - Action collateral: 10,000 ANT  
-        - Challenge collateral: 1,000 ANT
+        - Collateral token: `0x6b175474e89094c44da98b954eedeac495271d0f`  
+        - Action collateral: 50,000 DAI  
+        - Challenge collateral: 5,000 DAI
 
 #### Permissions
 The permissions that will be set on each app are:
