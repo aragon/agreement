@@ -37,7 +37,7 @@ Apps installed on the organization and their parameters.
       - Title: Aragon Network Agreement  
       - Content: https://github.com/aragon/agreement/pull/1/files    
       - Ruling priority:  
-        - 1: Refuse to rule (hard-coded in Aragon Court)  
+        - 1: Refuse to vote (hard-coded in Aragon Court)  
         - 2: Block  
         - 3: Allow  
 
