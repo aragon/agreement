@@ -53,7 +53,7 @@ Apps installed on the organization and their parameters.
       - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
       - Action collateral: 10,000 ANT  
       - Challenge collateral: 1,000 ANT
-      - Refuse to rule outcome: Block
+      - `Refuse to vote` outcome: Block
 
 - EVM Script Registry. Enables the management of EVMScripts and EVMScript executors.
 
