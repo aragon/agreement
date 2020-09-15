@@ -35,7 +35,12 @@ Apps installed on the organization and their parameters.
       - Arbitrator: `0xee4650cbe7a2b23701d416f58b41d8b76b617797`  
       - Staking pool: TBD  
       - Title: Aragon Network Agreement  
-      - Content: https://github.com/aragon/agreement/pull/1/files
+      - Content: https://github.com/aragon/agreement/pull/1/files  
+      - Refuse to rule outcome: Block  
+      - Ruling priority:  
+        - 1: Refuse to rule  
+        - 2: Block  
+        - 3: Allow  
 
     - Disputable Voting 1 parameterization:  
       - Challenge response duration: 24 hours  
