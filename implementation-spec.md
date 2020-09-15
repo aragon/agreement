@@ -78,7 +78,7 @@ Apps installed on the organization and their parameters.
         - Collateral token: `0x960b236a07cf122663c4303350609a66a7b288c0`  
         - Action collateral: 100 ANT  
         - Challenge collateral: 100 ANT
-        - Refuse to rule outcome: Block
+        - `Refuse to vote` outcome: Block
 
 - Disputable Voting 2. Used to start new votes and poll tokenholders about specific issues. This Voting app is parameterized for more risky types of proposals (compared to Voting 1: higher approval and support thresholds, longer vote duration, higher collateral requirements, etc).
 
